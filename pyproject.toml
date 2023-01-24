@@ -6,11 +6,11 @@ build-backend = "poetry.core.masonry.api"
 name = "ScandEval"
 version = "6.2.0"
 description = "Evaluation of pretrained language models on mono- or multilingual Scandinavian language tasks."
-authors = ["Dan Saattrup Nielsen <saattrupdan@gmail.com>"]
+authors = ["REDACTED <REDACTED>"]
 readme = "README.md"
 license = "MIT"
 homepage = "https://scandeval.github.io"
-repository = "https://github.com/saattrupdan/ScandEval"
+repository = "REDACTED"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
